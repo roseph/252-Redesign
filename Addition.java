@@ -4,14 +4,17 @@
 */ 
 public class Addition  {
    public static void main(String[] args)  {
-      int x = 1;  //Set 1 into a variable
-      int y = 2;  //Set 2 into a variable
-      int z;      //Create a variable for the answer
+      int z;  //Create a variable for the answer
       
-      z = x + y;  //Perform the arithmetic
+      z = 1 + 2;  //Perform the arithmetic 
       
+      System.out.println("This is a demonstration of a non-scripting programming language.");
       System.out.print(z);  //Output the answer
    }
 }
+
+/*To run this program, click on the green plus under Help
+  and then click on the red figure that looks like it's running
+*/ 
       
    
