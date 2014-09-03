@@ -9,7 +9,7 @@ public class Buggy_Multiplication  {
       z = 1 / 0;  //Perform the arithmetic 
       
       System.out.println("This is a demonstration of a non-scripting programming language.");
-      System.out.print(z);  //Output the answer
+      System.out.print(z;  //Output the answer
    }
 }
 
