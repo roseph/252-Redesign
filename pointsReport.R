@@ -26,8 +26,8 @@ source_https <- function(u, unlink.tmp.certs = FALSE) {
 # Load the loadPoints.R code from GitHub, which contains the readSpreadsheet() function
 # and the full URL to access the points spreadsheet from this class
 
-#readSpreadsheet is from
-#http://stackoverflow.com/questions/22873602/importing-data-into-r-from-google-spreadsheet
+# readSpreadsheet is from
+# http://stackoverflow.com/questions/22873602/importing-data-into-r-from-google-spreadsheet
 
 source_https("https://raw.githubusercontent.com/roseph/252-Redesign/master/loadPoints.R")
 
